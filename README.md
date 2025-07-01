@@ -29,5 +29,5 @@ A real-time hand pose estimation app built with **React.js**, **TensorFlow.js**,
 
 ```bash
 git clone https://github.com/your-username/hand-pose-recognition.git
-cd hand-pose-recognition
+cd hand_pose_recognition
 
