@@ -6,11 +6,11 @@ A real-time hand pose estimation app built with **React.js**, **TensorFlow.js**,
 
 ## 🚀 Features
 
-- 🔍 Real-time hand tracking using **TensorFlow.js HandPose model**
-- 🖐️ Detects 21 hand keypoints with precise landmark tracking
-- 🧠 Runs entirely in-browser — no backend or server needed
-- 🧩 Renders an interactive **3D mesh overlay** using Canvas/WebGL
-- ⚡ Optimized for performance with webcam feed
+-  Real-time hand tracking using **TensorFlow.js HandPose model**
+-  Detects 21 hand keypoints with precise landmark tracking
+-  Runs entirely in-browser — no backend or server needed
+-  Renders an interactive **3D mesh overlay** using Canvas/WebGL
+-  Optimized for performance with webcam feed
 
 ---
 
